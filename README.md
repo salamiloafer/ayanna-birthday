@@ -1,24 +1,23 @@
-A cute interactive birthday website for Ayanna 
-Built using HTML, CSS, and JavaScript with pixel-style design, animations, and sound effects.
+Built using HTML, CSS, and JavaScript with a pixel / photobooth -style design, animations, and sound effects.
 
 ---
 
-## 🌸 Features
+## Features
 
-✨ Landing page with "hai ayanna <3 click me!"  
-✨ Smooth transition into main gallery page  
-✨ 2x2 pixel-style image grid  
-✨ Clickable boxes that open cute scrollable letters  
-✨ Cute pink themed modal with close (✕) button  
-✨ Background click sound effects  
-✨ Toggle music button 
-✨ Floating animated hearts 
-✨ Pixel-style font (retro aesthetic)  
-✨ Smooth hover animations and transitions  
+- Landing page with "hai ayanna <3 click me!"  
+- Smooth transition into main gallery page  
+- 2x2 pixel-style image grid  
+- Clickable boxes that open cute scrollable letters  
+- Cute pink themed modal with close (✕) button  
+- Background click sound effects  
+- Toggle music button 
+- Floating animated hearts 
+- Pixel-style font (retro aesthetic)  
+- Smooth hover animations and transitions  
 
 ---
 
-## 🎮 Interactions
+## Interactions
 
 - Click anywhere on landing page → enters main gallery
 - Click image boxes → opens personalized birthday letters
@@ -28,7 +27,7 @@ Built using HTML, CSS, and JavaScript with pixel-style design, animations, and s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5  
 - CSS3 (animations + grid + styling)  
@@ -36,7 +35,7 @@ Built using HTML, CSS, and JavaScript with pixel-style design, animations, and s
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 index.html
 style.css
@@ -52,10 +51,10 @@ open.mp3
 
 ---
 
-## 🎀 Notes
+## Notes
 
 Make sure all file names match exactly (especially images and audio files) for everything to work properly.
 
 ---
 
-## 💌 I hope everyone likes this !
+## Thank you for reading! 
