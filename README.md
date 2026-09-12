@@ -1,60 +1,9 @@
-Built using HTML, CSS, and JavaScript with a pixel / photobooth -style design, animations, and sound effects.
+built using html, css, and javascript with a retro pixel photobooth style, animations, and sounds.
 
----
-
-## Features
-
-- Landing page with "hai ayanna <3 click me!"  
-- Smooth transition into main gallery page  
-- 2x2 pixel-style image grid  
-- Clickable boxes that open cute scrollable letters  
-- Cute pink themed modal with close (✕) button  
-- Background click sound effects  
-- Toggle music button 
-- Floating animated hearts 
-- Pixel-style font (retro aesthetic)  
-- Smooth hover animations and transitions  
-
----
-
-## Interactions
-
-- Click anywhere on landing page → enters main gallery
-- Click image boxes → opens personalized birthday letters
-- Click “PLAY ME!” → plays / pauses background music
-- Click anywhere → soft click sound plays
-- Floating hearts animate continuously in background
-
----
-
-## Tech Stack
-
-- HTML5  
-- CSS3 (animations + grid + styling)  
-- JavaScript (DOM interactions + audio control)  
-
----
-
-## File Structure
-
-index.html
-style.css
-script.js
-pic1.jpeg
-pic2.jpeg
-pic3.jpeg
-pic4.jpeg
-song.mp3
-click.mp3
-open.mp3
-
-
----
-
-## Notes
-
-Make sure all file names match exactly (especially images and audio files) for everything to work properly.
-
----
-
-## Thank you for reading! 
+features & interactions
+landing page: displays "hai ayanna <3 click me!" and enters gallery on click.
+photo gallery: a 2x2 pixel grid with 4 images (pic1 to pic4).
+letters: clicking an image opens a cute pink modal box with a scrollable note and a close (✕) button.
+audio: includes a "play me!" background music toggle, sound effects when clicking anywhere, and a sound when opening notes.
+vibe: floating animated hearts, retro fonts, and smooth hover effects.
+files neededindex.htmlstyle.cssscript.jspic1.jpeg, pic2.jpeg, pic3.jpeg, pic4.jpegsong.mp3, click.mp3, open.mp3
